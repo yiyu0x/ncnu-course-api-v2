@@ -42,7 +42,6 @@
 
 需要查詢特定資料可以使用以下規則：
 
-
 - 全部資料：`127.0.0.1:8088/item`
 - 查詢特定教師相關課程：`127.0.0.1:8088/item?teacher=張克寧`
 	- 所有欄位皆可查詢	
@@ -50,3 +49,5 @@
 	- 搜尋姓名有張的老師相關課程：`127.0.0.1:8088/item?teacher_like=張`
 - 搜尋特定課號：`127.0.0.1:8088/item?course_id=135121`
 - 多重條件：`127.0.0.1:8088/item?course_id_like=1351&teacher_like=練`
+
+更多搜尋條件請見 [json-server](https://github.com/typicode/json-server.git)
