@@ -2,6 +2,8 @@
 
 ## run server
 
+- 每學期更新 API : `npm run update_api` 
+
 `json-server --ro api_data/108_2.json`
 
 ## run in docker
