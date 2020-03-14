@@ -16,28 +16,28 @@
 ```
 {
 	"course_ncnu":{
-		"item":[
-			{
-				"faculty":"人文學院",
-				"year":"108",
-				"semester":"2",
-				"department":"中文系",
-				"edepartment":"Chinese Language and Literature",
-				"course_id":"010044",
-				"class":"0",
-				"course_cname":"中國文學史(二)",
-				"course_ename":"History of Chinese Literature (Ⅱ)",
-				"time":"2ef",
-				"location":"人107",
-				"teacher":"曾守仁",
-				"eteacher":"Shou-Jen  Tseng",
-				"division":"學士班",
-				"edivision":"Bachelor",
-				"course_credit":"2.0"
-			},
-			...,
-			...
-		]
+	    "item":[
+		{
+		    "faculty":"人文學院",
+		    "year":"108",
+		    "semester":"2",
+		    "department":"中文系",
+		    "edepartment":"Chinese Language and Literature",
+		    "course_id":"010044",
+		    "class":"0",
+		    "course_cname":"中國文學史(二)",
+		    "course_ename":"History of Chinese Literature (Ⅱ)",
+		    "time":"2ef",
+		    "location":"人107",
+		    "teacher":"曾守仁",
+		    "eteacher":"Shou-Jen  Tseng",
+		    "division":"學士班",
+		    "edivision":"Bachelor",
+		    "course_credit":"2.0"
+		},
+	      ...,
+	      ...
+	    ]
 	}
 }
 ```
