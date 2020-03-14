@@ -8,7 +8,7 @@
 
 ## run in docker
 
-`docker run -d -p 8088:80 -v $PWD/api_data/108_2.json:/data/db.json yiyu0x/ncnu-course-api:v2`
+`docker run -d -p 8088:80 yiyu0x/ncnu-course-api:v2`
 
 ## docs
 
